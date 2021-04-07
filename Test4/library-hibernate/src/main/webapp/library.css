@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+.align{
+    
+    padding: 10%;
+	margin: 30%;
+    background-color: rgba(252, 250, 250, 0.8); 
+}
+.backgnd{
+	
+	background-position:fixed;
+	background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text{
+	font-size: 15pt;
+	text-align: center;
+}
+.text1{
+	font-size: 20pt;
+	text-align: center;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    height: 16%; 
+    width: 100%;
+    background-color: rgba(252, 250, 250, 0.8);
+    color: Teal;
+    text-align: center;
+
+}
+
+.align1{
+    padding: 10%;
+	margin: 30%;
+    background-color: rgba(252, 250, 250, 0.8); 
+	text-align: center;
+}
+
+
